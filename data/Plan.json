@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "sobject": "Account",
@@ -15,4 +16,23 @@
             "Contacts.json"
         ]
     }
+=======
+[
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Accounts.json"
+        ]
+    },
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Contacts.json"
+        ]
+    }
+>>>>>>> 892f457f2b56c2e572e3f2daf74f4b86bc5a4a28
 ]
