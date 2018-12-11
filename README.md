@@ -19,8 +19,8 @@ Contains any documents related to package like instruction guides, etc.
 #### folder : scripts 
 Contains reusable shell/cmd scripts
 
-#### folder : ci 
-Contains .yml and server.key.enc files which is required for CI 
+#### folder : .ci 
+This is not part of above repo yet but we will have .yml and server.key.enc files once CI is setup
 
 #### file : README.md
 Contains Introduction, package specific installation steps, Post installation steps, etc.
